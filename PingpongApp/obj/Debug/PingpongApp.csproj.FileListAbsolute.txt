@@ -1,0 +1,10 @@
+C:\Users\edwsilme\source\repos\PingpongApp\PingpongApp\bin\Debug\PingpongApp.exe
+C:\Users\edwsilme\source\repos\PingpongApp\PingpongApp\bin\Debug\PingpongApp.pdb
+C:\Users\edwsilme\source\repos\PingpongApp\PingpongApp\obj\Debug\PingpongApp.csprojAssemblyReference.cache
+C:\Users\edwsilme\source\repos\PingpongApp\PingpongApp\obj\Debug\PingpongApp.fInicio.resources
+C:\Users\edwsilme\source\repos\PingpongApp\PingpongApp\obj\Debug\PingpongApp.Properties.Resources.resources
+C:\Users\edwsilme\source\repos\PingpongApp\PingpongApp\obj\Debug\PingpongApp.csproj.GenerateResource.cache
+C:\Users\edwsilme\source\repos\PingpongApp\PingpongApp\obj\Debug\PingpongApp.csproj.CoreCompileInputs.cache
+C:\Users\edwsilme\source\repos\PingpongApp\PingpongApp\obj\Debug\PingpongApp.exe
+C:\Users\edwsilme\source\repos\PingpongApp\PingpongApp\obj\Debug\PingpongApp.pdb
+C:\Users\edwsilme\source\repos\PingpongApp\PingpongApp\obj\Debug\PingpongApp.Juego.resources
